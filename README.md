@@ -15,6 +15,7 @@ This repository contains sources for the slcan CANable firmware, based off of th
 - `S6` - Set bitrate to 500k
 - `S7` - Set bitrate to 750k
 - `S8` - Set bitrate to 1M
+- `S9` - Set bitrate to 615.384k (Used by SAAB Trionic 5 ECUs)
 - `M0` - Set mode to normal mode (default)
 - `M1` - Set mode to silent mode
 - `A0` - Disable automatic retransmission 
